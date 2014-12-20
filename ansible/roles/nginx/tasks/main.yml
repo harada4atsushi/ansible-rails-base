@@ -11,3 +11,5 @@
 - name: set auto start
   sudo: true
   shell: chkconfig nginx on
+
+# TODO nginx.confのtemplate化

@@ -1,8 +1,10 @@
 # README
 
+Rerer to https://github.com/morizyun/vagrant-ansible-rails
+
 ## Vagrant
 
-write .ssh/config
+Write .ssh/config
 
 ```
 host 192.168.33.*
