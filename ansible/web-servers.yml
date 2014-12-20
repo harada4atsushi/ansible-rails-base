@@ -7,9 +7,9 @@
   #  rbenv_root: /home/vagrant/.rbenv
   #  rbenv_bin: /home/vagrant/.rbenv/libexec/rbenv
   roles:
-    #- base
-    #- rbenv
-    #- nginx
+    - base
+    - rbenv
+    - nginx
     - mysql
 
 
